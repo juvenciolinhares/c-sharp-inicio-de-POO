@@ -1,0 +1,14 @@
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.exe
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.deps.json
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.runtimeconfig.json
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.runtimeconfig.dev.json
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.dll
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\bin\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.pdb
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.csproj.AssemblyReference.cache
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.AssemblyInfoInputs.cache
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.AssemblyInfo.cs
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.dll
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.pdb
+C:\ws-vs2022\ProdutoSegundoProblemaExemplo\ProdutoSegundoProblemaExemplo\obj\Debug\netcoreapp3.1\ProdutoSegundoProblemaExemplo.genruntimeconfig.cache

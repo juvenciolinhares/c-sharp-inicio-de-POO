@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.AssemblyInfo.cs
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.exe
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.deps.json
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.runtimeconfig.json
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.runtimeconfig.dev.json
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.dll
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.pdb
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.dll
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.pdb
+C:\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.genruntimeconfig.cache

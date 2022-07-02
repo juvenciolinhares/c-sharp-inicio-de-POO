@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.exe
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.deps.json
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.runtimeconfig.json
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.runtimeconfig.dev.json
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.dll
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\bin\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.pdb
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.AssemblyInfo.cs
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.dll
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.pdb
+C:\ws-vs2022\ExercicioResolvidoMatrizes\ExercicioResolvidoMatrizes\obj\Debug\netcoreapp3.1\ExercicioResolvidoMatrizes.genruntimeconfig.cache

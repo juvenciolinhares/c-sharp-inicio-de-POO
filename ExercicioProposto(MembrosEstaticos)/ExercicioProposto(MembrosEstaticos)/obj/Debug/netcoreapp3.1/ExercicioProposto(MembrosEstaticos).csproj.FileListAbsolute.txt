@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).exe
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).deps.json
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).runtimeconfig.json
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).runtimeconfig.dev.json
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).dll
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\bin\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).pdb
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).AssemblyInfo.cs
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).dll
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).pdb
+C:\ws-vs2022\ExercicioProposto(MembrosEstaticos)\ExercicioProposto(MembrosEstaticos)\obj\Debug\netcoreapp3.1\ExercicioProposto(MembrosEstaticos).genruntimeconfig.cache

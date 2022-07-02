@@ -1,0 +1,14 @@
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).exe
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).deps.json
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).runtimeconfig.json
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).runtimeconfig.dev.json
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).dll
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\bin\Debug\netcoreapp3.1\Properties(Propriedades).pdb
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).csproj.AssemblyReference.cache
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).AssemblyInfoInputs.cache
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).AssemblyInfo.cs
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).dll
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).pdb
+C:\ws-vs2022\Properties(Propriedades)\Properties(Propriedades)\obj\Debug\netcoreapp3.1\Properties(Propriedades).genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.exe
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.deps.json
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.runtimeconfig.json
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.runtimeconfig.dev.json
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.dll
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\bin\Debug\netcoreapp3.1\MembrosEstáticos.pdb
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.csproj.AssemblyReference.cache
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.AssemblyInfoInputs.cache
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.AssemblyInfo.cs
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.dll
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.pdb
+C:\ws-vs2022\MembrosEstáticos\MembrosEstáticos\obj\Debug\netcoreapp3.1\MembrosEstáticos.genruntimeconfig.cache

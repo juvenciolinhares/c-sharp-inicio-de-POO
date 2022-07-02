@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).exe
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).deps.json
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).runtimeconfig.json
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).runtimeconfig.dev.json
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).dll
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\bin\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).pdb
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).AssemblyInfo.cs
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).dll
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).pdb
+C:\ws-vs2022\ExercicioDeFixacao(Vetores)\ExercicioDeFixacao(Vetores)\obj\Debug\netcoreapp3.1\ExercicioDeFixacao(Vetores).genruntimeconfig.cache

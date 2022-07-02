@@ -1,0 +1,14 @@
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\ws-vs2022\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\ws-vs2022\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

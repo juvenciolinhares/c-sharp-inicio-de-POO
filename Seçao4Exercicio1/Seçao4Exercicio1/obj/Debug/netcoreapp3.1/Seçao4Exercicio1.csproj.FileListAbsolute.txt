@@ -1,0 +1,14 @@
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.exe
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.deps.json
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.runtimeconfig.json
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.runtimeconfig.dev.json
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.dll
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\bin\Debug\netcoreapp3.1\Seçao4Exercicio1.pdb
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.csproj.AssemblyReference.cache
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.AssemblyInfoInputs.cache
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.AssemblyInfo.cs
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.dll
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.pdb
+C:\ws-vs2022\Seçao4Exercicio1\Seçao4Exercicio1\obj\Debug\netcoreapp3.1\Seçao4Exercicio1.genruntimeconfig.cache

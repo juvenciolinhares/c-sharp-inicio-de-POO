@@ -1,0 +1,14 @@
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).exe
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).deps.json
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).runtimeconfig.json
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).runtimeconfig.dev.json
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).dll
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\bin\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).pdb
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).csproj.AssemblyReference.cache
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).AssemblyInfoInputs.cache
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).AssemblyInfo.cs
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).dll
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).pdb
+C:\ws-vs2022\ModificadoresDeParametros(Calculadora)\ModificadoresDeParametros(Calculadora)\obj\Debug\netcoreapp3.1\ModificadoresDeParametros(Calculadora).genruntimeconfig.cache

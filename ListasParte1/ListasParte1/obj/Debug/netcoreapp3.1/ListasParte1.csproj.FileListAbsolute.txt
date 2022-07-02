@@ -1,0 +1,14 @@
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.exe
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.deps.json
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.runtimeconfig.json
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.runtimeconfig.dev.json
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.dll
+C:\ws-vs2022\ListasParte1\ListasParte1\bin\Debug\netcoreapp3.1\ListasParte1.pdb
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.csproj.AssemblyReference.cache
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.AssemblyInfoInputs.cache
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.AssemblyInfo.cs
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.dll
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.pdb
+C:\ws-vs2022\ListasParte1\ListasParte1\obj\Debug\netcoreapp3.1\ListasParte1.genruntimeconfig.cache

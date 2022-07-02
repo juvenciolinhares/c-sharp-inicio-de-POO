@@ -1,0 +1,14 @@
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.exe
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.deps.json
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.runtimeconfig.json
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.runtimeconfig.dev.json
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.dll
+C:\ws-vs2022\VetoresParte2\VetoresParte2\bin\Debug\netcoreapp3.1\VetoresParte2.pdb
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.csproj.AssemblyReference.cache
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.AssemblyInfoInputs.cache
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.AssemblyInfo.cs
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.dll
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.pdb
+C:\ws-vs2022\VetoresParte2\VetoresParte2\obj\Debug\netcoreapp3.1\VetoresParte2.genruntimeconfig.cache

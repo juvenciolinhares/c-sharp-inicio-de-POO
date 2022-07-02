@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.exe
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.deps.json
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.runtimeconfig.json
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.runtimeconfig.dev.json
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.dll
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.pdb
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.AssemblyInfo.cs
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.dll
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.pdb
+C:\ws-vs2022\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoListas.genruntimeconfig.cache

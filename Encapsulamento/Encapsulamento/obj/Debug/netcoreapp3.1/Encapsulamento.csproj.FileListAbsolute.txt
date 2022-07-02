@@ -1,0 +1,14 @@
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.AssemblyReference.cache
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\ws-vs2022\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\ws-vs2022\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

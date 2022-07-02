@@ -1,0 +1,14 @@
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+C:\ws-vs2022\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.AssemblyReference.cache
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+C:\ws-vs2022\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache
